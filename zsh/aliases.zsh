@@ -134,6 +134,7 @@ alias cl='clear'
 alias gz='tar -zcvf'
 
 # Ruby
+alias be='bundle exec'
 alias c='rails c' # Rails 3
 alias co='script/console --irb=pry' # Rails 2
 alias ts='thin start'
