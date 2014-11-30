@@ -121,6 +121,7 @@ alias gt='git t'
 alias gbg='git bisect good'
 alias gbb='git bisect bad'
 alias gca='git commit --amend'
+alias grhh='git reset HEAD --hard'
 
 # Common shell functions
 alias less='less -r'
